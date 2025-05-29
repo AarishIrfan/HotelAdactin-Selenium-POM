@@ -43,7 +43,4 @@ A Selenium test automation project built using the **Page Object Model (POM)** f
 4. Run via MSTest or Test Explorer  
 5. Chrome browser will launch for test execution
 
----
-
-## 📂 Folder Structure
 
