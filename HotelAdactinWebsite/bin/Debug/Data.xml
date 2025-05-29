@@ -1,0 +1,14 @@
+<Automation>
+<Execution>
+<SearchHotelTC001>
+<DropDownLocation>Sydney</DropDownLocation>
+<DropDownHotel>Hotel Hervey</DropDownHotel>
+<ChooseRoom>Deluxe</ChooseRoom>
+<SelectRooms>3 - Three</SelectRooms>
+<EnterCheckInDate>12/04/2023</EnterCheckInDate>
+<EnterCheckOutDate>13/04/2023</EnterCheckOutDate>
+<SelectAdultRoom>4 - Four</SelectAdultRoom>
+<SelectChildRoom>4 - Four</SelectChildRoom>
+</SearchHotelTC001>
+</Execution>
+</Automation>
